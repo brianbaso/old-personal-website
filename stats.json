@@ -1,12 +1,12 @@
 {
   "assetsByChunkName": {
-    "component---src-pages-first-day-tips-js": [
-      "component---src-pages-first-day-tips-js-07795c63c49b84079fd6.js",
-      "component---src-pages-first-day-tips-js-07795c63c49b84079fd6.js.map"
-    ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-08a25332d75950190249.js",
-      "component---src-pages-index-js-08a25332d75950190249.js.map"
+      "component---src-pages-index-js-21f7840cde739412eb55.js",
+      "component---src-pages-index-js-21f7840cde739412eb55.js.map"
+    ],
+    "path---posts-twenties": [
+      "path---posts-twenties-a0e39f21c11f6a62c5ab.js",
+      "path---posts-twenties-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-pages-reading-js": [
       "component---src-pages-reading-js-37e81d6be91bd71d00ba.js",
@@ -20,6 +20,14 @@
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
     ],
+    "path---posts-first-day-tips": [
+      "path---posts-first-day-tips-a0e39f21c11f6a62c5ab.js",
+      "path---posts-first-day-tips-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-posts-first-day-tips-js": [
+      "component---src-pages-posts-first-day-tips-js-fed25fc35e1212a50aee.js",
+      "component---src-pages-posts-first-day-tips-js-fed25fc35e1212a50aee.js.map"
+    ],
     "path---reading": [
       "path---reading-a0e39f21c11f6a62c5ab.js",
       "path---reading-a0e39f21c11f6a62c5ab.js.map"
@@ -27,10 +35,6 @@
     "component---src-layouts-index-js": [
       "component---src-layouts-index-js-720e37d69253433527cd.js",
       "component---src-layouts-index-js-720e37d69253433527cd.js.map"
-    ],
-    "path---twenties": [
-      "path---twenties-a0e39f21c11f6a62c5ab.js",
-      "path---twenties-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---index": [
       "path---index-a0e39f21c11f6a62c5ab.js",
@@ -48,9 +52,9 @@
       "commons-9ed11ab228fde8325863.js",
       "commons-9ed11ab228fde8325863.js.map"
     ],
-    "path---if-you-think": [
-      "path---if-you-think-a0e39f21c11f6a62c5ab.js",
-      "path---if-you-think-a0e39f21c11f6a62c5ab.js.map"
+    "component---src-pages-posts-twenties-js": [
+      "component---src-pages-posts-twenties-js-bc1625d6241c6e6d1e18.js",
+      "component---src-pages-posts-twenties-js-bc1625d6241c6e6d1e18.js.map"
     ],
     "path---connect": [
       "path---connect-a0e39f21c11f6a62c5ab.js",
@@ -60,27 +64,23 @@
       "path---404-html-a0e39f21c11f6a62c5ab.js",
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
-    "component---src-pages-if-you-think-js": [
-      "component---src-pages-if-you-think-js-7495555c8c2f78cc219f.js",
-      "component---src-pages-if-you-think-js-7495555c8c2f78cc219f.js.map"
-    ],
-    "path---first-day-tips": [
-      "path---first-day-tips-a0e39f21c11f6a62c5ab.js",
-      "path---first-day-tips-a0e39f21c11f6a62c5ab.js.map"
+    "path---posts-if-you-think": [
+      "path---posts-if-you-think-a0e39f21c11f6a62c5ab.js",
+      "path---posts-if-you-think-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-57599639174ce0ea1759.js",
+      "app-9f1dbdb00de8ceea2148.js",
       "build-js-styles.css",
-      "app-57599639174ce0ea1759.js.map",
+      "app-9f1dbdb00de8ceea2148.js.map",
       "build-js-styles.css.map"
+    ],
+    "component---src-pages-posts-if-you-think-js": [
+      "component---src-pages-posts-if-you-think-js-09dcb2fa8d61d198ece6.js",
+      "component---src-pages-posts-if-you-think-js-09dcb2fa8d61d198ece6.js.map"
     ],
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
       "path---404-a0e39f21c11f6a62c5ab.js.map"
-    ],
-    "component---src-pages-twenties-js": [
-      "component---src-pages-twenties-js-359fc809409b15224ef4.js",
-      "component---src-pages-twenties-js-359fc809409b15224ef4.js.map"
     ],
     "component---src-pages-connect-js": [
       "component---src-pages-connect-js-92160154313a219c918c.js",
