@@ -1,0 +1,90 @@
+{
+  "assetsByChunkName": {
+    "component---src-pages-first-day-tips-js": [
+      "component---src-pages-first-day-tips-js-07795c63c49b84079fd6.js",
+      "component---src-pages-first-day-tips-js-07795c63c49b84079fd6.js.map"
+    ],
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-08a25332d75950190249.js",
+      "component---src-pages-index-js-08a25332d75950190249.js.map"
+    ],
+    "component---src-pages-reading-js": [
+      "component---src-pages-reading-js-37e81d6be91bd71d00ba.js",
+      "component---src-pages-reading-js-37e81d6be91bd71d00ba.js.map"
+    ],
+    "path---goals": [
+      "path---goals-a0e39f21c11f6a62c5ab.js",
+      "path---goals-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "path---reading": [
+      "path---reading-a0e39f21c11f6a62c5ab.js",
+      "path---reading-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-720e37d69253433527cd.js",
+      "component---src-layouts-index-js-720e37d69253433527cd.js.map"
+    ],
+    "path---twenties": [
+      "path---twenties-a0e39f21c11f6a62c5ab.js",
+      "path---twenties-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---index": [
+      "path---index-a0e39f21c11f6a62c5ab.js",
+      "path---index-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-goals-js": [
+      "component---src-pages-goals-js-aa47ed4f32cfeaddb30b.js",
+      "component---src-pages-goals-js-aa47ed4f32cfeaddb30b.js.map"
+    ],
+    "component---src-pages-404-js": [
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
+    ],
+    "commons": [
+      "commons-9ed11ab228fde8325863.js",
+      "commons-9ed11ab228fde8325863.js.map"
+    ],
+    "path---if-you-think": [
+      "path---if-you-think-a0e39f21c11f6a62c5ab.js",
+      "path---if-you-think-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---connect": [
+      "path---connect-a0e39f21c11f6a62c5ab.js",
+      "path---connect-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---404-html": [
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-if-you-think-js": [
+      "component---src-pages-if-you-think-js-7495555c8c2f78cc219f.js",
+      "component---src-pages-if-you-think-js-7495555c8c2f78cc219f.js.map"
+    ],
+    "path---first-day-tips": [
+      "path---first-day-tips-a0e39f21c11f6a62c5ab.js",
+      "path---first-day-tips-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "app": [
+      "app-57599639174ce0ea1759.js",
+      "build-js-styles.css",
+      "app-57599639174ce0ea1759.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-twenties-js": [
+      "component---src-pages-twenties-js-359fc809409b15224ef4.js",
+      "component---src-pages-twenties-js-359fc809409b15224ef4.js.map"
+    ],
+    "component---src-pages-connect-js": [
+      "component---src-pages-connect-js-92160154313a219c918c.js",
+      "component---src-pages-connect-js-92160154313a219c918c.js.map"
+    ]
+  }
+}
